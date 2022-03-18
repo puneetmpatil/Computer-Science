@@ -1,0 +1,75 @@
+.content-container h4{
+    font-weight: bolder;
+    color:red;
+    text-align: center;
+    margin-top:15px;
+    height: 50px;
+    text-decoration: underline;
+}
+.content-container li:hover{
+    color:green;
+    font-weight: bold;
+}
+li{
+    text-decoration: none;
+}
+.pre{
+    text-align: center;
+    font-size:14px;
+    font-weight: bold;
+    height:30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#extra-links{
+    font-size:15px;
+    color:black;
+}
+#extra-links a:hover{
+    color:red;
+}
+#html:hover{
+    font-weight: bolder;
+    font-size:17px;
+    color:red;
+}
+#css:hover{
+    font-weight: bolder;
+    font-size:17px;
+    color:red;
+}
+#javascript:hover{
+    font-weight: bolder;
+    font-size:17px;
+    color:red;
+}
+#git:hover{
+    font-weight: bolder;
+    font-size:17px;
+    color:red;
+}
+#bootstrap:hover{
+    font-weight: bolder;
+    font-size:16px;
+    color:red;
+}
+#tailwind:hover{
+    font-weight: bolder;
+    font-size:16px;
+    color:red;
+}
+#react:hover{
+    font-weight: bolder;
+    font-size:17px;
+    color:red;
+}
+#angular:hover{
+    font-weight: bolder;
+    font-size:18px;
+    color:red;
+}
+#vue:hover{
+    font-weight: bolder;
+    font-size:17px;
+    color:red;
+}

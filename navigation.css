@@ -1,0 +1,39 @@
+body
+{
+    background-color: black;
+    color: white;
+}
+.navbar
+{
+    background-color: navy;
+    border-radius: 10px;
+    display:flex;
+    justify-content: center;
+}
+.navbar ul
+{
+    overflow:auto;
+}
+*
+.navbar li
+{
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+}
+.navbar li a
+{
+    padding: 3px 3px;
+    text-decoration: none;
+}
+.navbar li a:hover
+{
+    color: yellow;
+    font-weight: bolder;
+}
+@media only screen and (max-width: 625px) {
+    .navbar li{
+        clear: left;
+        display: inline-block;
+    }
+}

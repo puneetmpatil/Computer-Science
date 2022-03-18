@@ -1,0 +1,32 @@
+header h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: ital;
+}
+.content1{
+    max-width: 800px;
+    font-size:14px;
+    background-color:white;
+    color:blue;
+    margin:auto;
+    padding:30px 30px;
+}
+#learn{
+    background-color:rgba(255,255,0,0.5)
+}
+#learn a:hover{
+    background-color:aqua;
+    color: red;
+}
+img
+{
+    display:block;
+    max-width:100%;
+    border-radius:5px;
+    margin-left: auto;
+    margin-right: auto;
+    height:auto;
+    width:500px;
+}

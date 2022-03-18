@@ -1,0 +1,79 @@
+.navs{
+    margin-top:40px;
+    max-width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: rgba(255,255,0);
+    color:darkblue;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    list-style-type: none;
+}
+.navs ul{
+    overflow:auto;
+}
+.navs li{
+    float: left;
+    margin: 13px 20px;
+}
+.navs li a
+{
+    display: block;
+    padding: 3px 3px;
+    text-decoration: none;
+}
+.navs a:hover{
+    color:red;
+    font-weight: bold;
+}
+.content-container{
+    margin-top:40px;
+    margin-bottom:40px;
+    clear:left;
+    padding:10px 50px;
+    background-color:white;
+    color:blue;
+    max-width:800px;
+    margin-left:auto;
+    margin-right:auto;
+    font-family:'Times New Roman', Times, serif;
+}
+.content-container h4{
+    text-align:center;
+    font-weight: bolder;
+    font-size:16px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 20px;
+    color:red;
+    text-decoration:underline;
+}
+.content-container h4:hover{
+    color:darkblue;
+}
+.content-container li{
+    list-style-type: decimal;
+    text-decoration:none;
+}
+.content-container li:hover{
+    color:green;
+}
+.link:hover{
+    color:green;
+    font-weight: bolder;
+}
+hr{
+    border-top:2px solid red;
+}
+.github-repo-links{
+    columns:2;
+    -webkit-columns:2;
+    -moz-columns: 2;
+}
+@media only screen and (max-width: 700px) {
+    .navs li{
+        clear: left;
+        display: inline-block;
+    }
+}

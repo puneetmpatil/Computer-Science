@@ -1,0 +1,60 @@
+.google-form
+{
+    text-align: center;
+}
+.google-form p
+{
+    color:aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.google-form a
+{
+    font-size: 12px;
+}
+.google-form a:hover
+{
+    color: lightgreen;
+}
+.alternate
+{
+    max-width:80px;
+    margin:auto;
+    padding: auto;
+    background-color: white;
+    color:blue;
+}
+.alternate p
+{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia;
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input[type=submit] {
+    background-color: grey;
+    color:black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    background-color: blue;
+}
+.form {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    max-width:600px;
+    margin:auto;
+    padding:10px 40px;
+    color:black;
+}

@@ -1,0 +1,31 @@
+li a:hover
+{
+    color:aqua;
+    font-weight: bolder;
+    font-size:16px;
+}
+article h4
+{
+    background-color: blue;
+    padding-top: 10px;
+}
+.ord-list
+{
+    list-style-type: decimal;
+}
+.content-container img
+{
+    margin-left:auto;
+    margin-right:auto;
+    height: auto;               /*responsive-img*/
+    max-width:100%;             /*responsive-img*/
+    border-radius: 50%;
+}
+figure figcaption
+{
+    text-align: center;
+}
+footer div p
+{
+    font-size: 10px;
+}
