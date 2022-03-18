@@ -1,3 +1,30 @@
-# Computer-Science
+# Computer-Science-From-Scratch
 
-Website-URL:https://computerscience.z13.web.core.windows.net/
+Problem Statement/Opportunity:
+As a fresher in Computer Science, it is always difficult to decide where to start from and which resources to refer and learn. This website helps to solve this. The website lists a number of different courses from the different areas of Computer Science. It will help a fresher in learning Computer Science a glimpse of the best resources available to learn Computer Science.
+
+TECHNOLOGIES USED:
+1. HTML5
+2. CSS3
+
+FRAMEWORKS USED
+1. TAILWIND CSS
+
+MICROSOFT AZURE TECHNOLOGIES USED
+1. STORAGE ACCOUNTS
+2. STATIC WEBSITE
+3. STORAGE
+4. AZURE BLOB STORAGE
+5. DATA MANAGEMENT
+6. DATA STORAGE
+
+SUMMARY OF THE PROJECT
+- This is a project contains 9 web pages - Home,Start Your Learning Journey,More,About,Contact,Beginners,Programming Langauges and Subjects.
+- The static website contains links to best resources to learn CS completely for free from top educators around the world. It also contains roadmaps to become a Block chain developer/Web developer/Data Scientist,etc.
+- The Home Page contains the navigation bar, which has answers to some common questions related to Computer Science and links of articles regarding the same.
+- The Info Page has an article on Birthday.
+- The Database Page has two inputs- Name and DOB. On taking input it displays the name and DOB as an alert
+- The About Page contains information regarding the website
+- The Contact Page has a contact form.
+
+Website-URL: https://computerscience.z13.web.core.windows.net/
