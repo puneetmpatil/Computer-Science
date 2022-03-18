@@ -1,3 +1,3 @@
 # Computer-Science
 
-Website-URL:https://computerscience.z13.web.core.windows.net/.net/
+Website-URL:https://computerscience.z13.web.core.windows.net/
