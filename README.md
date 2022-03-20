@@ -11,12 +11,12 @@ As a fresher in Computer Science, it is always difficult to decide where to star
 1. TAILWIND CSS
 
 #### MICROSOFT AZURE TECHNOLOGIES USED
-1. STORAGE ACCOUNTS
-2. STATIC WEBSITE
-3. STORAGE
-4. AZURE BLOB STORAGE
-5. DATA MANAGEMENT
-6. DATA STORAGE
+1. Storage Accounts
+2. Static Website
+3. Storage
+4. Azure Blob Storage
+5. Data Management
+6. Data Storage
 
 #### SUMMARY OF THE PROJECT:
 - This is a project contains 9 web pages - Home,Start Your Learning Journey,More,About,Contact,Beginners,Programming Langauges and Subjects.
